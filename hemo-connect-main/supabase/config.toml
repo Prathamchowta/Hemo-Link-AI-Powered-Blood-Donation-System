@@ -1,0 +1,10 @@
+project_id = "jjeahjdittjszzpjwqxme"
+
+[functions.send-donor-alerts]
+verify_jwt = true
+
+[functions.chat]
+verify_jwt = false
+
+[functions.suggest-donors]
+verify_jwt = true
